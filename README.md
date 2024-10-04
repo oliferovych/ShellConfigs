@@ -11,8 +11,9 @@
 
 - ### toggle prompt colors
   ```
-  unset TERM;
-  export TERM=xterm-256color;
+  case "$TERM" in
+    xterm-color|*-256color) color_prompt=yes;;
+  esac
   ```
 - ### change the chroot
    ```
