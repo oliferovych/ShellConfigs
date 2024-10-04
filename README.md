@@ -1,4 +1,6 @@
-# Bash ![image](https://github.com/user-attachments/assets/777be8b9-f8f4-49a3-8411-a56c5c0d7379)
+# Bash
+
+![image](https://github.com/user-attachments/assets/777be8b9-f8f4-49a3-8411-a56c5c0d7379)
 - ### git aliases:
     > gs, ga, gc (git status, git add, git commit);
 - ### ls aliases:
