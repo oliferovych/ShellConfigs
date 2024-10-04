@@ -7,4 +7,5 @@
     - ll, la, l(ls -alF, ls -A, ls -CF);
 - displaying current git branch:
 
-  ![image](https://github.com/user-attachments/assets/095db7c0-a9e5-46b5-a7c7-b20dd262450f)
+![image](https://github.com/user-attachments/assets/7020a596-74eb-4714-bb06-7c0f4ac54a22)
+
