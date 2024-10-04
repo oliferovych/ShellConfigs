@@ -9,7 +9,11 @@
 
 ![image](https://github.com/user-attachments/assets/7020a596-74eb-4714-bb06-7c0f4ac54a22)
 
-- ### disable prompt colors via env '$color_prompt' (0, 1)
+- ### toggle prompt colors
+  ```
+  unset color_prompt;
+  export color_prompt = 1;
+  ```
 - ### change the chroot
    ```
    if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
