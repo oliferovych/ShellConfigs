@@ -12,7 +12,7 @@
 - ### toggle prompt colors
   ```
   unset TERM;
-  export TERM=-256color;
+  export TERM=xterm-256color;
   ```
 - ### change the chroot
    ```
