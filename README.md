@@ -1,4 +1,4 @@
-###Bash:
+#Bash:
 
 ![image](https://github.com/user-attachments/assets/6c59efb0-738c-403c-ad35-4d5c5de50e54)
 - git aliases:
