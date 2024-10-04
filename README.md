@@ -11,7 +11,9 @@
 
 - ### disable prompt colors via env '$color_prompt' (0, 1)
 - ### change the chroot
-   `if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
-    debian_chroot=$(cat /etc/debian_chroot)
-    fi`
+   ```
+   if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
+       debian_chroot=$(cat /etc/debian_chroot)
+   fi
+   ```
 
