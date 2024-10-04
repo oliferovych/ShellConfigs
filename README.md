@@ -1,4 +1,5 @@
 # 💻Bashrc
+> core linux shell
 
 - ### git aliases:
     `gs, ga, gc` - (git status, git add, git commit);
